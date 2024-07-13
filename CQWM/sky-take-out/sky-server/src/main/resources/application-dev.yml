@@ -17,8 +17,8 @@ sky:
     password: 123456
     database: 10
   wechat:
-    appid: wxaf44bdd2846c4451
-    secret: c674064c53648c4fdb6c40a273625815
+    appid: 
+    secret: 
     mchid: 1561414331
     mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
     privateKeyFilePath: D:\pay\apiclient_key.pem
